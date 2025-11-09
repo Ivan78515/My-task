@@ -1,0 +1,15 @@
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\obj\Debug\net8.0\BusinesLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\obj\Debug\net8.0\BusinesLogica.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\obj\Debug\net8.0\BusinesLogica.AssemblyInfo.cs
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\obj\Debug\net8.0\BusinesLogica.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\bin\Debug\net8.0\BusinesLogica.deps.json
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\bin\Debug\net8.0\BusinesLogica.dll
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\bin\Debug\net8.0\BusinesLogica.pdb
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\obj\Debug\net8.0\BusinesLogica.dll
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\obj\Debug\net8.0\refint\BusinesLogica.dll
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\obj\Debug\net8.0\BusinesLogica.pdb
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\obj\Debug\net8.0\ref\BusinesLogica.dll
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\obj\Debug\net8.0\BusinesLogica.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\MyTasks\BusinesLogica\obj\Debug\net8.0\BusinesL.F64E3E61.Up2Date
